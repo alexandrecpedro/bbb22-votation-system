@@ -62,7 +62,7 @@ As seguintes ferramentas foram usadas na construção do projeto:<br><br>
 <p>Infraestrutura</p>
 <img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
 <img align='center' width =' 80px ' src="https://static.macupdate.com/products/53532/m/offset-explorer-logo.png?v=1633349540" />
-<img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align='center' width =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <br><br>
 <p>Frontend</p>
 <img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
