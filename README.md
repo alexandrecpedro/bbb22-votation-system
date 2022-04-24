@@ -39,17 +39,33 @@ A cada semana, o participante que obtiver o maior percentual de votos é elimina
 <h2> 🛠 Tecnologias </h2>
 As seguintes ferramentas foram usadas na construção do projeto:<br><br>
     
-|                                                     Ferramentas              |                                 Referência                                  | |                                 Símbolos                                 |
+|                                                     Tipo              | Ferramentas                                |                                 Referência                                   |
 | :---------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
-|                    Banco de Dados Não-Relacional MongoDB - [MONGODB]         |              https://www.mongodb.com/try/download/community                     |       <img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> |
-|                           Robo 3T [ROBO 3T]                                  |              https://robomongo.org/                                         |       <img align='center' width =' 80px ' src="https://dashboard.snapcraft.io/site_media/appmedia/2018/09/logo-256x256.png" /> |
-|      Framework Java Spring Boot - construção do Back-end [SPRING BOOT]       |              https://start.spring.io/                                       |        <img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />   | 
-|      API Documentation Library for Spring Boot [OPENAPI 3]       |              https://springdoc.org/                                       |        <img align='center' width =' 80px ' src="https://springdoc.org/images/springdoc-openapi.png" />   | 
-|                           Framework Apache KAFKA [KAFKA]                     |              https://kafka.apache.org/        |  <img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />  |    
-|                           View and managing objects a Apache KAFKA [OFFSET EXPLORER]                     |              https://kafkatool.com/         |  <img align='center' width =' 80px ' src="https://static.macupdate.com/products/53532/m/offset-explorer-logo.png?v=1633349540" />  |    
-|                           Docker [DOCKER]                                    |              https://hub.docker.com/                                            |  <img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />            |       
-|              API RESTful using JSON - Swagger UI [SWAGGER]           |              https://swagger.io/                                            |  <img align='center' width =' 80px ' src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" />      |     
-|              Framework Angular - construção da API web [ANGULAR]           |              https://angular.io/                                            |  <img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />      |     
+|                    Banco de Dados Não-Relacional       |   MONGODB     |              https://www.mongodb.com/try/download/community                     |
+|                           Robo 3T                                  |   ROBO 3T      |             https://robomongo.org/                                         |
+|      Framework Java Spring Boot - construção do Back-end       |    SPRING BOOT       |               https://start.spring.io/                                       |
+|      API Documentation Library for Spring Boot       |    OPENAPI 3       |              https://springdoc.org/                                       | 
+|                           Framework Apache KAFKA                     | KAFKA   |              https://kafka.apache.org/        |    
+|                           View and managing objects a Apache KAFKA         |     OFFSET EXPLORER           |              https://kafkatool.com/         |    
+|                           Docker                                    |    DOCKER          |               https://hub.docker.com/                                            |      
+|              API RESTful using JSON - Swagger UI           |   SWAGGER     |               https://swagger.io/                                            |    
+|              Framework Angular - construção da API web           |  ANGULAR       |              https://angular.io/                                            |    
+<br>
+
+Backend
+<img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align='center' width =' 80px ' src="https://dashboard.snapcraft.io/site_media/appmedia/2018/09/logo-256x256.png" />
+<img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align='center' width =' 80px ' src="https://springdoc.org/images/springdoc-openapi.png" />
+<img align='center' width =' 80px ' src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" />
+<br>
+Infraestrutura
+<img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
+<img align='center' width =' 80px ' src="https://static.macupdate.com/products/53532/m/offset-explorer-logo.png?v=1633349540" />
+<img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<br>
+Frontend
+<img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <br>
 <br>
 
