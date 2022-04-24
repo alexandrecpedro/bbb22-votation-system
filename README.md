@@ -52,19 +52,19 @@ As seguintes ferramentas foram usadas na construção do projeto:<br><br>
 |              Framework Angular - construção da API web           |  ANGULAR       |              https://angular.io/                                            |    
 <br>
 
-Backend
+<p>Backend</p>
 <img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align='center' width =' 80px ' src="https://dashboard.snapcraft.io/site_media/appmedia/2018/09/logo-256x256.png" />
 <img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align='center' width =' 80px ' src="https://springdoc.org/images/springdoc-openapi.png" />
 <img align='center' width =' 80px ' src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" />
 <br>
-Infraestrutura
+<p>Infraestrutura</p>
 <img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
 <img align='center' width =' 80px ' src="https://static.macupdate.com/products/53532/m/offset-explorer-logo.png?v=1633349540" />
 <img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <br>
-Frontend
+<p>Frontend</p>
 <img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <br>
 <br>
