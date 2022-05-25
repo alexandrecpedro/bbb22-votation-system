@@ -54,7 +54,7 @@ As seguintes ferramentas foram usadas na construção do projeto:<br><br>
 
 <p>Backend</p>
 <img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<!-- <img align='center' width =' 80px ' src="https://dashboard.snapcraft.io/site_media/appmedia/2018/09/logo-256x256.png" /> -->
+<img align='center' width =' 80px ' src="./project/logos/robomongo-3T.png" />
 <img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align='center' width =' 250px ' src="https://springdoc.org/images/springdoc-openapi.png" />
 <img align='center' width =' 250px ' src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" />
