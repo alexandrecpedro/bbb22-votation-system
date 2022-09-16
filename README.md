@@ -51,22 +51,23 @@ As seguintes ferramentas foram usadas na construção do projeto:<br><br>
 |              API RESTful using JSON - Swagger UI           |   SWAGGER     |               https://swagger.io/                                            |    
 |              Framework Angular - construção da API web           |  ANGULAR       |              https://angular.io/                                            |    
 <br>
-
-<p>Backend</p>
-<img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align='center' width =' 80px ' src="./project/logos/robomongo-3T.png" />
-<img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align='center' width =' 250px ' src="./project/logos/openAPI3.png" />
-<img align='center' width =' 250px ' src="./project/logos/swagger_logo.svg" />
-<br><br>
-<p>Infraestrutura</p>
-<img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
-<img align='center' width =' 80px ' src="https://static.macupdate.com/products/53532/m/offset-explorer-logo.png?v=1633349540" />
-<img align='center' width =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<br><br>
-<p>Frontend</p>
-<img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-<br>
+<div align = 'center'>
+    <h3>Backend</h3>
+    <img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <img align='center' width =' 80px ' src="./project/logos/robomongo-3T.png" />
+    <img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+    <img align='center' width =' 250px ' src="./project/logos/openAPI3.png" />
+    <img align='center' width =' 250px ' src="./project/logos/swagger_logo.svg" />
+    <br><br>
+    <h3>Infraestrutura</h3>
+    <img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
+    <img align='center' width =' 80px ' src="https://static.macupdate.com/products/53532/m/offset-explorer-logo.png?v=1633349540" />
+    <img align='center' width =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <br><br>
+    <h3>Frontend</h3>
+    <img align='center' width =' 80px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+    <br>
+</div>
 <br>
 
 <div id="percurso">
